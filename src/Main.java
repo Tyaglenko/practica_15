@@ -31,7 +31,7 @@ public class Main {
             isAdmin = true;
             System.out.println("Ви увійшли як адміністратор. Можете переглядати правильні відповіді.");
         }
-
+//
         int totalQuestions = QUESTIONS.length;
         int correctAnswers = 0;
         int currentQuestion = 0;
