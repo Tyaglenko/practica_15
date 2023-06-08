@@ -19,6 +19,7 @@ public class Main {
     private static final String[] ANSWERS = {"a", "b", "c", "d", "c"};
 
     public static void main(String[] args) {
+        System.out.println(" Tyaglenko Yakiv Olexsandrovich");
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Вас вітає програма тестування на тему 'Неправильні дієслова'!");
